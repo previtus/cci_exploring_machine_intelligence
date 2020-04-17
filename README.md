@@ -61,6 +61,8 @@ https://ml4a.github.io/ml4a
 
 ##### Week 1 (17.4.) - Intro + Motivation - [slides pdf](https://github.com/previtus/cci_exploring_machine_intelligence/blob/master/week01_intro-motivation/ml01_intro-motivation.pdf), [video recording](https://youtu.be/b6bjeelzB5c)
 
+* Reading link: _"CAN: Creative Adversarial Networks ..."_ - [pdf on arXiv](https://arxiv.org/abs/1706.07068)
+
 ##### Week 2 - Building blocks of NNs // Practicum: first models with Keras
 
 ##### Week 3 - Convolutions, AlexNet, ImageNet // Practicum: using existing models
