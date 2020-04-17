@@ -12,7 +12,7 @@
 
 ### Video recordings:
 
-TBD
+* YouTube playlist: [CCI - Exploring Machine Intelligence](https://www.youtube.com/playlist?list=PLCIVpmFkFKQ88lzWtYW2MCwqXofhkzqgt)
 
 ### Course Description:
 
@@ -59,7 +59,7 @@ https://ml4a.github.io/ml4a
 
 ### Weekly Outline: 
 
-##### Week 1 - Intro + Motivation
+##### Week 1 (17.4.) - Intro + Motivation - [slides pdf](https://github.com/previtus/cci_exploring_machine_intelligence/blob/master/week01_intro-motivation/ml01_intro-motivation.pdf)
 
 ##### Week 2 - Building blocks of NNs // Practicum: first models with Keras
 
