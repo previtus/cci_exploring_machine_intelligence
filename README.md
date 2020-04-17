@@ -59,4 +59,20 @@ https://ml4a.github.io/ml4a
 
 ### Weekly Outline: 
 
-TBD
+##### Week 1 - Intro + Motivation
+
+##### Week 2 - Building blocks of NNs // Practicum: first models with Keras
+
+##### Week 3 - Convolutions, AlexNet, ImageNet // Practicum: using existing models
+
+##### Week 4 - Beyond classification, Generative models - VAE
+
+##### Week 5 - Domain to domain transfer - Pix2pix, Style transfer // Practicum: Scraping the internet
+
+##### Week 6 - GANs // Practicum: Working with trained models in notebooks (google colab)
+
+##### Week 7 - Sequential modelling and representing data
+
+##### Week 8 - Interactivity and performance
+
+##### _PS: the order of the class topics might still be changed_
