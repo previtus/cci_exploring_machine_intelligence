@@ -61,7 +61,9 @@ https://ml4a.github.io/ml4a
 
 ##### Week 1 (17.4.) - Intro + Motivation - [slides pdf](https://github.com/previtus/cci_exploring_machine_intelligence/blob/master/week01_intro-motivation/ml01_intro-motivation.pdf), [video recording](https://youtu.be/b6bjeelzB5c)
 
-* Reading link: _"CAN: Creative Adversarial Networks ..."_ - [pdf on arXiv](https://arxiv.org/abs/1706.07068)
+* **Reading link:** _"CAN: Creative Adversarial Networks ..."_ - [pdf on arXiv](https://arxiv.org/abs/1706.07068)
+
+* **Topics:** Lecture showcases some cool examples of Machine Learning (in and outside of art context), concept of having a model and treating it as a black box in a processing pipeline. Practical section contains examples with coding up Linear Regression for a simple dataset of points.
 
 ##### Week 2 - Building blocks of NNs // Practicum: first models with Keras
 
