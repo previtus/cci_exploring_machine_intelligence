@@ -67,7 +67,9 @@ https://ml4a.github.io/ml4a
 
 * **Topics:** Lecture showcases some cool examples of Machine Learning (in and outside of art context), concept of having a model and treating it as a black box in a processing pipeline. Practical section contains examples with coding up Linear Regression for a simple dataset of points.
 
-##### Week 2 - Building blocks of NNs // Practicum: first models with Keras
+##### Week 2 (24.4.) - Building blocks of NNs // Practicum: first models with Keras - [slides pdf](https://github.com/previtus/cci_exploring_machine_intelligence/blob/master/week02_basic-building-blocks/ml02_basic-building-blocks.pdf)
+
+* **Topics:** Lecture explores the basic building blocks used when creating Neural Networks. Artificial Neurons, Neural Networks, connecting image data with Fully Connected NNs and finally training. In the practical session we create the neural network we studied about in the class (and show it's really simple to do so!) and train it on the MNIST dataset. We also show how to use the trained model.
 
 ##### Week 3 - Convolutions, AlexNet, ImageNet // Practicum: using existing models
 
