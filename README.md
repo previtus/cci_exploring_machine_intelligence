@@ -69,9 +69,9 @@ https://ml4a.github.io/ml4a
 
 ##### Week 2 (24.4.) - Building blocks of NNs // Practicum: first models with Keras - [slides pdf](https://github.com/previtus/cci_exploring_machine_intelligence/blob/master/week02_basic-building-blocks/ml02_basic-building-blocks.pdf)
 
-* **Recordings:** [lecture video](https://youtu.be/ptj4uIwsQtE) (1:23h)
+* **Recordings:** [lecture video](https://youtu.be/ptj4uIwsQtE) (1:23h) and recording from our [practical session](https://youtu.be/lqJ5L8nfFsI) (1:27h)
 
-* **Topics:** Lecture explores the basic building blocks used when creating Neural Networks. Artificial Neurons, Neural Networks, connecting image data with Fully Connected NNs and finally training. In the practical session we create the neural network we studied about in the class (and show it's really simple to do so!) and train it on the MNIST dataset. We also show how to use the trained model.
+* **Topics:** Lecture explores the basic building blocks used when creating Neural Networks. Artificial Neurons, Neural Networks, connecting image data with Fully Connected NNs and finally training. In the practical session we create the neural network we studied about in the class (and show it's really simple to do so!) and train it on the MNIST dataset. We also show how to use (and as a bonus also how the hack) the trained model.
 
 ##### Week 3 - Convolutions, AlexNet, ImageNet // Practicum: using existing models
 
