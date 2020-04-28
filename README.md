@@ -73,7 +73,9 @@ https://ml4a.github.io/ml4a
 
 * **Topics:** Lecture explores the basic building blocks used when creating Neural Networks. Artificial Neurons, Neural Networks, connecting image data with Fully Connected NNs and finally training. In the practical session we create the neural network we studied about in the class (and show it's really simple to do so!) and train it on the MNIST dataset. We also show how to use (and as a bonus also how the hack) the trained model.
 
-##### Week 3 - Convolutions, AlexNet, ImageNet // Practicum: using existing models
+##### Week 3 - Convolutions, AlexNet, ImageNet // Practicum: using existing models - [slides pdf](https://github.com/previtus/cci_exploring_machine_intelligence/blob/master/week03_convolutional-nns/ml03_convolutional-nns.pdf)
+
+* **Topics:** Lecture starts with illustration of overfitting, then explores Convolutional operation applied over images. We then use convolutions inside Neural Networks and introduce Convolutional Neural Networks and their general model architecture. We describe the functionally differentiated sections of the model such as feature extractor and classifier. We visualize convolutional kernels to bring in some intuitive understanding to networks using convolutions (for tasks of classification or image generation). In the practical session we use existing trained neural networks to label images. We also extract feature descriptors of images inside a dataset (CIFAR-10) navigate the latent space (for searching and tracking trajectories).
 
 ##### Week 4 - Beyond classification, Generative models - VAE
 
