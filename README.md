@@ -63,10 +63,10 @@ https://ml4a.github.io/ml4a
 
 * **Recordings:** [lecture video](https://youtu.be/b6bjeelzB5c) (1:10h) and recording from our [practical session](https://youtu.be/9fox3RjL8Go) (47m)
 
-* **Reading link:** _"CAN: Creative Adversarial Networks ..."_ - [pdf on arXiv](https://arxiv.org/abs/1706.07068)
+* **Reading link:** _"CAN: Creative Adversarial Networks ..."_ (2017) - [pdf on arXiv](https://arxiv.org/abs/1706.07068)
 
 <p align="center">
-<img src="https://github.com/previtus/cci_exploring_machine_intelligence/raw/master/week01_intro-motivation/ml01_slide.gif" width="760">
+<a href="https://youtu.be/b6bjeelzB5c"><img src="https://github.com/previtus/cci_exploring_machine_intelligence/raw/master/week01_intro-motivation/ml01_slide.gif" width="760"></a>
 </p>
 
 * **Topics:** Lecture showcases some cool examples of Machine Learning (in and outside of art context), concept of having a model and treating it as a black box in a processing pipeline. Practical section contains examples with coding up Linear Regression for a simple dataset of points.
@@ -76,7 +76,7 @@ https://ml4a.github.io/ml4a
 * **Recordings:** [lecture video](https://youtu.be/ptj4uIwsQtE) (1:23h) and recording from our [practical session](https://youtu.be/lqJ5L8nfFsI) (1:27h)
 
 <p align="center">
-<img src="https://github.com/previtus/cci_exploring_machine_intelligence/raw/master/week02_basic-building-blocks/ml02_slide.gif" width="760">
+<a href="https://youtu.be/ptj4uIwsQtE"><img src="https://github.com/previtus/cci_exploring_machine_intelligence/raw/master/week02_basic-building-blocks/ml02_slide.gif" width="760"></a>
 </p>
 
 * **Topics:** Lecture explores the basic building blocks used when creating Neural Networks. Artificial Neurons, Neural Networks, connecting image data with Fully Connected NNs and finally training. In the practical session we create the neural network we studied about in the class (and show it's really simple to do so!) and train it on the MNIST dataset. We also show how to use (and as a bonus also how the hack) the trained model.
@@ -85,8 +85,10 @@ https://ml4a.github.io/ml4a
 
 * **Recordings:** [lecture video](https://youtu.be/cVU6WDyBXc4) (1:39h)
 
+* **Reading link:** _"ImageNet Classification with Deep Convolutional Neural Networks"_ (2012) - [pdf](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
+
 <p align="center">
-<img src="https://github.com/previtus/cci_exploring_machine_intelligence/raw/master/week03_convolutional-nns/ml03_slide.gif" width="760">
+<a href="https://youtu.be/cVU6WDyBXc4"><img src="https://github.com/previtus/cci_exploring_machine_intelligence/raw/master/week03_convolutional-nns/ml03_slide.gif" width="760"></a>
 </p>
 
 * **Topics:** Lecture starts with illustration of overfitting, then explores Convolutional operation applied over images. We then use convolutions inside Neural Networks and introduce Convolutional Neural Networks and their general model architecture. We describe the functionally differentiated sections of the model such as feature extractor and classifier. We visualize convolutional kernels to bring in some intuitive understanding to networks using convolutions (for tasks of classification or image generation). In the practical session we use existing trained neural networks to label images. We also extract feature descriptors of images inside a dataset (CIFAR-10) navigate the latent space (for searching and tracking trajectories).
