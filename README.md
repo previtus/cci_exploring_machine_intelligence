@@ -77,6 +77,10 @@ https://ml4a.github.io/ml4a
 
 * **Recordings:** [lecture video](https://youtu.be/cVU6WDyBXc4) (1:39h)
 
+<p align="center">
+<img src="https://github.com/previtus/cci_exploring_machine_intelligence/raw/master/week03_convolutional-nns/ml03_slide_half.gif" width="760" >
+</p>
+
 * **Topics:** Lecture starts with illustration of overfitting, then explores Convolutional operation applied over images. We then use convolutions inside Neural Networks and introduce Convolutional Neural Networks and their general model architecture. We describe the functionally differentiated sections of the model such as feature extractor and classifier. We visualize convolutional kernels to bring in some intuitive understanding to networks using convolutions (for tasks of classification or image generation). In the practical session we use existing trained neural networks to label images. We also extract feature descriptors of images inside a dataset (CIFAR-10) navigate the latent space (for searching and tracking trajectories).
 
 ##### Week 4 - Beyond classification, Generative models - VAE
