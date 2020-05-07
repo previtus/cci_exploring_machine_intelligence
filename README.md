@@ -103,7 +103,33 @@ https://ml4a.github.io/ml4a
 
 #### Week 4 - Bank holiday
 
+---
+
 #### Week 5 - Interaction with Machine Learning models with Rebecca Fiebrink
+
+Topics will include:
+
+* Understanding how classification and regression can be used to create real-time interactions with sensors, audio, video, etc.
+* Familiarity with "interactive machine learning" in which training data is iteratively modified to steer model behaviours
+* Using Wekinator and MIMIC tools to train real-time interactive machine learning systems
+* Using OSC to support real-time communication between applications/computers
+
+##### Before end of day on 13 May, please do the following:
+
+1. Install Wekinator for your operating system: http://www.wekinator.org/downloads/
+
+2. Next, follow the instructions for the Wekinator “Quick Walkthrough” at http://www.wekinator.org/walkthrough/
+Specifically:
+
+* If you already have the Processing IDE installed on your computer, I recommend running the Processing source code examples. This is because you will easily be able to edit the examples to make them do other things. You can watch this video to learn how to add the necessary libraries in Processing: https://www.youtube.com/watch?embed=no&v=bE2EimjdUmM
+* If you don’t want to run from the Processing source code, and you’re on a recent version of Windows, you may find that the webcam face tracker input, while more fun, doesn’t work— so try using the mouse-dragged box input instead.
+* If you run into problems running one of the input or output executables, you may need to download the “last resort” files which are much larger but have the Java virtual machine included
+* Read the text instructions closely to do the walkthrough.
+* If you are able to get your chosen input (i.e., mouse-dragged box or webcam) and output (i.e., sound synthesis or colour change) to run, and you’ve followed all the instructions carefully, but things still don’t seem to be working right the problem is likely to be the fact that, at one point, you had more than one program trying to receive OSC at the same port at the same time. Quit all of your inputs, outputs, and Wekinator. Then open only your chosen input, your chosen output, and Wekinator, and follow the instructions again. This is likely to work.
+
+If you run into any problems running Wekinator or doing the walkthrough, please send Rebecca a slack message or email her at r.fiebrink@arts.ac.uk and she’ll help you troubleshoot.
+
+---
 
 #### Week 6 - Beyond classification: Generative models, Domain to domain transfer - VAE, Pix2pix, Style transfer // Practicum: Scraping the internet
 
