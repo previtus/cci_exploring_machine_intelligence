@@ -89,7 +89,7 @@ https://ml4a.github.io/ml4a
 
 #### Week 3 - Convolutions, AlexNet, ImageNet // Practicum: using existing models - [slides pdf](https://github.com/previtus/cci_exploring_machine_intelligence/blob/master/week03_convolutional-nns/ml03_convolutional-nns.pdf)
 
-* **Recordings:** [lecture video](https://youtu.be/cVU6WDyBXc4) (1:39h)
+* **Recordings:** [lecture video](https://youtu.be/cVU6WDyBXc4) (1:39h) and recording from our [practical session](https://youtu.be/-Z2OZMePgHo) (1:02h)
 
 * **Reading link:** _"ImageNet Classification with Deep Convolutional Neural Networks"_ (2012) - [pdf](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
 
