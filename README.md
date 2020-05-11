@@ -129,6 +129,10 @@ Specifically:
 
 If you run into any problems running Wekinator or doing the walkthrough, please send Rebecca a slack message or email her at r.fiebrink@arts.ac.uk and she’ll help you troubleshoot.
 
+##### Lecture Videos
+
+Please visit Moodle at https://moodle.arts.ac.uk/course/view.php?id=38156#section-5 for instructions for viewing the lecture videos. There are about 2 hours of video content to watch before Friday's practical session.
+
 ---
 
 #### Week 6 - Beyond classification: Generative models, Domain to domain transfer - VAE, Pix2pix, Style transfer // Practicum: Scraping the internet
