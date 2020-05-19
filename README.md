@@ -87,7 +87,7 @@ https://ml4a.github.io/ml4a
 
 ---
 
-#### Week 3 - Convolutions, AlexNet, ImageNet // Practicum: using existing models - [slides pdf](https://github.com/previtus/cci_exploring_machine_intelligence/blob/master/week03_convolutional-nns/ml03_convolutional-nns.pdf)
+#### Week 3 (1.5.) - Convolutions, AlexNet, ImageNet // Practicum: using existing models - [slides pdf](https://github.com/previtus/cci_exploring_machine_intelligence/blob/master/week03_convolutional-nns/ml03_convolutional-nns.pdf)
 
 * **Recordings:** [lecture video](https://youtu.be/cVU6WDyBXc4) (1:39h) and recording from our [practical session](https://youtu.be/-Z2OZMePgHo) (1:02h)
 
@@ -101,11 +101,11 @@ https://ml4a.github.io/ml4a
 
 ---
 
-#### Week 4 - Bank holiday
+#### Bank holiday
 
 ---
 
-#### Week 5 - Interaction with Machine Learning models with Rebecca Fiebrink
+#### Week 4 (15.5.) - Interaction with Machine Learning models with Rebecca Fiebrink
 
 Topics will include:
 
@@ -136,10 +136,8 @@ Please visit Moodle at https://moodle.arts.ac.uk/course/view.php?id=38156#sectio
 
 ---
 
-#### Week 6 - Beyond classification: Generative models, Domain to domain transfer - VAE, Pix2pix, Style transfer // Practicum: Scraping the internet
+#### Week 5 (22.5.) - Beyond classification: Generative models - Variational AutoEncoders, Generative Adversarial Networks // Practicum: Scraping the internet - [slides pdf](https://github.com/previtus/cci_exploring_machine_intelligence/blob/master/week05_generative-models/ml05_generative-models.pdf)
 
-#### Week 7 - GANs // Practicum: Working with trained models in notebooks (google colab)
-
-#### Week 8 - Sequential modelling and representing data
+#### Week 6 - Additional generative models (pix2pix, style transfer) and sequential modelling // Practicum: Working with trained models in notebooks (google colab)
 
 #### _PS: the order of the class topics might still be changed_
