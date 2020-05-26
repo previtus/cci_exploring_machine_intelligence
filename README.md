@@ -138,7 +138,7 @@ Please visit Moodle at https://moodle.arts.ac.uk/course/view.php?id=38156#sectio
 
 #### Week 5 (22.5.) - Beyond classification: Generative models - Variational AutoEncoders, Generative Adversarial Networks // Practicum: Scraping the internet - [slides pdf](https://github.com/previtus/cci_exploring_machine_intelligence/blob/master/week05_generative-models/ml05_generative-models.pdf)
 
-* **Recordings:** [lecture video](https://youtu.be/QFy8Z0tRhy0) (1:31h)
+* **Recordings:** [lecture video](https://youtu.be/QFy8Z0tRhy0) (1:31h) and recording from our [practical session](https://youtu.be/saDUunZ7eqQ) (1:12h)
 
 <p align="center">
 <a href="https://youtu.be/cVU6WDyBXc4"><img src="https://raw.githubusercontent.com/previtus/cci_exploring_machine_intelligence/master/week05_generative-models/ml05_slide.gif" width="760"></a>
