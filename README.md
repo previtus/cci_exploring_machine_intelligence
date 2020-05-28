@@ -148,7 +148,7 @@ Please visit Moodle at https://moodle.arts.ac.uk/course/view.php?id=38156#sectio
 
 ---
 
-#### Week 6 - Additional generative models: pix2pix, style transfer and deep dreaming // Practicum: Practical session with Progressively Growing GAN on Google Colab
+#### Week 6 - Additional generative models: pix2pix, style transfer and deep dreaming // Practicum: Practical session with Progressively Growing GAN on Google Colab - [slides pdf](https://github.com/previtus/cci_exploring_machine_intelligence/blob/master/week06_generative-models-ii/ml06_generative-models-II.pdf)
 
 * **Recordings:** [lecture video](https://youtu.be/qmOESGWRPe4) (52m)
 
