@@ -158,4 +158,8 @@ Please visit Moodle at https://moodle.arts.ac.uk/course/view.php?id=38156#sectio
 
 * **Topics:** This is our second lecture focused on Generative models.
 
+---
+
+#### Week 7 - Sequential data modelling
+
 #### _PS: the order of the class topics might still be changed_
