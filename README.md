@@ -141,13 +141,17 @@ Please visit Moodle at https://moodle.arts.ac.uk/course/view.php?id=38156#sectio
 * **Recordings:** [lecture video](https://youtu.be/QFy8Z0tRhy0) (1:31h) and recording from our [practical session](https://youtu.be/saDUunZ7eqQ) (1:12h)
 
 <p align="center">
-<a href="https://youtu.be/cVU6WDyBXc4"><img src="https://raw.githubusercontent.com/previtus/cci_exploring_machine_intelligence/master/week05_generative-models/ml05_slide.gif" width="760"></a>
+<a href="https://youtu.be/QFy8Z0tRhy0"><img src="https://raw.githubusercontent.com/previtus/cci_exploring_machine_intelligence/master/week05_generative-models/ml05_slide.gif" width="760"></a>
 </p>
 
 * **Topics:** This lecture is about Generative models. We start with explaining the AutoEncoder (AE) architecture and explore the ways in which we can interact with these models. One of the AE specific interactions is the possibility to encode real images into latent space and in doing so extract the visual attribute vectors (can you imagine a vector responsible for "smile" in a human faces dataset?). In a second part of the lecture we dig deeper into using Generative Adversarial Networks (GANs), explain the differences with AEs and reasons to use one or the other type of architecture. We look into some _weird_, cool and non-traditional uses of these models in art projects. In the practical session we learn how to create, train and use a VAE model with some basic datasets. We will also talk about collecting your own datasets by scraping the internet.
 
 ---
 
-#### Week 6 - Additional generative models (pix2pix, style transfer) and sequential modelling // Practicum: Working with trained models in notebooks (google colab)
+#### Week 6 - Additional generative models: pix2pix, style transfer and deep dreaming // Practicum: Practical session with Progressively Growing GAN on Google Colab
+
+* **Recordings:** [lecture video](https://youtu.be/qmOESGWRPe4) (52m)
+
+* **Topics:** This is our second lecture focused on Generative models.
 
 #### _PS: the order of the class topics might still be changed_
