@@ -156,7 +156,7 @@ Please visit Moodle at https://moodle.arts.ac.uk/course/view.php?id=38156#sectio
 <a href="https://youtu.be/qmOESGWRPe4"><img src="https://github.com/previtus/cci_exploring_machine_intelligence/raw/master/week06_generative-models-ii/ml06_slide.gif" width="760"></a>
 </p>
 
-* **Topics:** This is our second lecture focused on Generative models.
+* **Topics:** This is our second lecture focused on Generative models. We talk through some additional machine learning techniques, namely the: domain to domain translation (pix2pix model), style transfer and finally the deep dream algorithm. This week we focus more on the practical session, where we go through all the necessary steps needed to train and use a ProgressiveGAN model on your own dataset (this is shown on Colab).
 
 ---
 
