@@ -166,6 +166,6 @@ Please visit Moodle at https://moodle.arts.ac.uk/course/view.php?id=38156#sectio
 
 ---
 
-#### Week 7 - Sequential data modelling
+#### Week 7 - Sequential data modelling // Practicum: Q&A for Final Exam [slides pdf](httpshttps://github.com/previtus/cci_exploring_machine_intelligence/blob/master/week07_sequential-modelling/ml07_sequential-modelling.pdf)
 
-#### _PS: the order of the class topics might still be changed_
+* **Topics:** This lecture is about modelling sequential data with some specialized models which include sequentiality in their design. We present the Recurrent Neural Network (RNN) model and the Long short-term memory (LSTM) model. We show how to plug in data from two domains - textual data encoded as one-hot vectors using a dictionary and musical data encoded using the Fourier Transform into spectrogram representation. Our live practical session will be opened for a Q&A about the final exams.
