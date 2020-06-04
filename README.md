@@ -168,8 +168,10 @@ Please visit Moodle at https://moodle.arts.ac.uk/course/view.php?id=38156#sectio
 
 #### Week 7 - Sequential data modelling // Practicum: Q&A for Final Exam - [slides pdf](https://github.com/previtus/cci_exploring_machine_intelligence/blob/master/week07_sequential-modelling/ml07_sequential-modelling.pdf)
 
-* **Topics:** This lecture is about modelling sequential data with some specialized models which include sequentiality in their design. We present the Recurrent Neural Network (RNN) model and the Long short-term memory (LSTM) model. We show how to plug in data from two domains - textual data encoded as one-hot vectors using a dictionary and musical data encoded using the Fourier Transform into spectrogram representation. Our live practical session will be opened for a Q&A about the final exams.
+* **Recordings:** [lecture video](https://youtu.be/QVEkOFqK9MY) (45m)
 
 <p align="center">
-<a href="https://youtu.be/???"><img src="https://github.com/previtus/cci_exploring_machine_intelligence/raw/master/week07_sequential-modelling/ml07_slide.gif" width="760"></a>
+<a href="https://youtu.be/QVEkOFqK9MY"><img src="https://github.com/previtus/cci_exploring_machine_intelligence/raw/master/week07_sequential-modelling/ml07_slide.gif" width="760"></a>
 </p>
+
+* **Topics:** This lecture is about modelling sequential data with some specialized models which include sequentiality in their design. We present the Recurrent Neural Network (RNN) model and the Long short-term memory (LSTM) model. We show how to plug in data from two domains - textual data encoded as one-hot vectors using a dictionary and musical data encoded using the Fourier Transform into spectrogram representation. Our live practical session will be opened for a Q&A about the final exams.
