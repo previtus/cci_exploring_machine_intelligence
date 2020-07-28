@@ -2,7 +2,7 @@
 
 **Instructor:** Vit Ruzicka
 
-**Email:** v.ruzicka@arts.ac.uk
+**Email:** previtus@gmail.com ~~v.ruzicka@arts.ac.uk~~
 
 **Class moodle:** https://moodle.arts.ac.uk/course/view.php?id=38156
 
